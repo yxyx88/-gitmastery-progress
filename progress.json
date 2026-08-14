@@ -25,14 +25,5 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786695917.939063,
-    "completed_at": 1786695921.295626,
-    "comments": [
-      "There are no grocery list items removed from the shopping list."
-    ],
-    "status": "Incomplete"
   }
 ]
