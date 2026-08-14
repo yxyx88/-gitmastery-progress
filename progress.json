@@ -1,0 +1,11 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786686029.084849,
+    "completed_at": 1786686030.673867,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
